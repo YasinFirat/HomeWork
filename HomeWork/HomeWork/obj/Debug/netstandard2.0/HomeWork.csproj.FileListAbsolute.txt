@@ -1,0 +1,12 @@
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\bin\Debug\netstandard2.0\HomeWork.deps.json
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\bin\Debug\netstandard2.0\HomeWork.dll
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\bin\Debug\netstandard2.0\HomeWork.pdb
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\HomeWork.csprojAssemblyReference.cache
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\HomeWork.AssemblyInfo.cs
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\HomeWork.dll
+C:\Users\yasin\source\repos\HomeWork\HomeWork\HomeWork\obj\Debug\netstandard2.0\HomeWork.pdb
